@@ -7,6 +7,7 @@ public class ColLesson01 {
 
 		// コマンドラインから入力
 		System.out.println("英単語と日本語をスペースで区切って入力して下さい。");
+		System.out.println("hoge");
 		Scanner sc  = new Scanner(System.in);
 		String input = sc.nextLine();
 
